@@ -17,6 +17,5 @@ class Calc{
     System.out.println(mul(10,20));
     System.out.println(div(10,20));                       
     System.out.println("Testing");
-    System.out.println("Testing 2");
   }
 }
